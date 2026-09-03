@@ -1,0 +1,15 @@
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\bin\Debug\net9.0\Compression.exe
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\bin\Debug\net9.0\Compression.deps.json
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\bin\Debug\net9.0\Compression.runtimeconfig.json
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\bin\Debug\net9.0\Compression.dll
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\bin\Debug\net9.0\Compression.pdb
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\Compression.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\Compression.AssemblyInfoInputs.cache
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\Compression.AssemblyInfo.cs
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\Compression.csproj.CoreCompileInputs.cache
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\Compression.sourcelink.json
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\Compression.dll
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\refint\Compression.dll
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\Compression.pdb
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\Compression.genruntimeconfig.cache
+D:\GitHub\TestTask-CS\TestTask-CS\Compression\obj\Debug\net9.0\ref\Compression.dll

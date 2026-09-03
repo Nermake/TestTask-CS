@@ -1,0 +1,15 @@
+D:\GitHub\TestTask-CS\TestTask-CS\bin\Debug\net9.0\TestTask-CS.exe
+D:\GitHub\TestTask-CS\TestTask-CS\bin\Debug\net9.0\TestTask-CS.deps.json
+D:\GitHub\TestTask-CS\TestTask-CS\bin\Debug\net9.0\TestTask-CS.runtimeconfig.json
+D:\GitHub\TestTask-CS\TestTask-CS\bin\Debug\net9.0\TestTask-CS.dll
+D:\GitHub\TestTask-CS\TestTask-CS\bin\Debug\net9.0\TestTask-CS.pdb
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\TestTask-CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\TestTask-CS.AssemblyInfoInputs.cache
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\TestTask-CS.AssemblyInfo.cs
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\TestTask-CS.csproj.CoreCompileInputs.cache
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\TestTask-CS.sourcelink.json
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\TestTask-CS.dll
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\refint\TestTask-CS.dll
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\TestTask-CS.pdb
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\TestTask-CS.genruntimeconfig.cache
+D:\GitHub\TestTask-CS\TestTask-CS\obj\Debug\net9.0\ref\TestTask-CS.dll
