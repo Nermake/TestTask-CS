@@ -1,0 +1,15 @@
+D:\GitHub\TestTask-CS\TestTask-CS\Log\bin\Debug\net9.0\Log.exe
+D:\GitHub\TestTask-CS\TestTask-CS\Log\bin\Debug\net9.0\Log.deps.json
+D:\GitHub\TestTask-CS\TestTask-CS\Log\bin\Debug\net9.0\Log.runtimeconfig.json
+D:\GitHub\TestTask-CS\TestTask-CS\Log\bin\Debug\net9.0\Log.dll
+D:\GitHub\TestTask-CS\TestTask-CS\Log\bin\Debug\net9.0\Log.pdb
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\Log.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\Log.AssemblyInfoInputs.cache
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\Log.AssemblyInfo.cs
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\Log.csproj.CoreCompileInputs.cache
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\Log.sourcelink.json
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\Log.dll
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\refint\Log.dll
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\Log.pdb
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\Log.genruntimeconfig.cache
+D:\GitHub\TestTask-CS\TestTask-CS\Log\obj\Debug\net9.0\ref\Log.dll

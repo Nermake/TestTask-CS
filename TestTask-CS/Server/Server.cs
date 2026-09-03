@@ -54,7 +54,7 @@ namespace Task2
                     }
                     
                     var random = new Random();
-                    port = random.Next(1024, 65535);
+                    port = random.Next(10000, 65535);
 
                     Console.WriteLine($"""
                                       Запуск в сетевом режиме.
@@ -246,12 +246,12 @@ namespace Task2
                 sender.SendMessage("[Ошибка] Используйте: /add <число>");
                 return;
             }
-
+            
             var senderInfo = GetClientInfo(sender);
             var formattedMessage = $"[{senderInfo}]> {message}";
-
+            
             Console.WriteLine($"Рассылка: {formattedMessage}");
-
+            
             lock (_clientsLock)
             {
                 foreach (var client in _clients.ToArray())
